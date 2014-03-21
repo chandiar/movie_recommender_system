@@ -1,0 +1,4 @@
+Once you are logged in, the recommender system will predict movie ratings for
+the user and suggest movies that the user might like
+The user can restrict the recommended movies based on certain keywords, e.g.
++war + tom cruise - science fiction
